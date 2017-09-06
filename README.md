@@ -1,6 +1,6 @@
 # Moon-Base-Project
 
-Contributors: Sarah Hansen, Brian Lee, Meg O'Brien, and Dan O'Connor
+Contributors: Sarah Hansen, Brian Lee, Meg O'Brien, and Dan O'Connor;
 Project Mentor: Dr. Clive Neal 
 
 Project from EG 10112 
